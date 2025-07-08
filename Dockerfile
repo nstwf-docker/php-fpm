@@ -35,6 +35,7 @@ RUN install-php-extensions \
     bcmath \
     bz2 \
     calendar \
+    curl \
     exif \
     gd \
     intl \
